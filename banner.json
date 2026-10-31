@@ -1,9 +1,18 @@
-{
+﻿{
   "active": true,
   "background_color": null,
   "border_color": null,
   "rounding": 5.0,
   "items": [
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/lagrange-points/banner/main/icon.png",
+      "link_url": "https://t.me/lagrange_points",
+      "width": 20.0,
+      "height": 20.0,
+      "rounding": 4.0,
+      "tooltip": "کانال تلگرام"
+    },
     {
       "type": "text",
       "text": "📢 کانال تلگرام:",
