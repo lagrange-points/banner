@@ -1,6 +1,6 @@
 {
   "active": true,
-  "app_disabled": true,
+  "app_disabled": false,
   "disabled_message": "این نسخه از برنامه منقضی و غیرفعال شده است. لطفاً نسخه جدید را از کانال تلگرام به نشانی https://t.me/lagrange_points دریافت کنید.",
   "disabled_link_url": "https://t.me/lagrange_points",
   "background_color": null,
